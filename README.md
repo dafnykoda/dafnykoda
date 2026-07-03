@@ -34,7 +34,7 @@ Currently, I have a solid foundation in C++ and I'm always learning new concepts
 <h2 align="center">➤ Languages</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css" />
 </p>
 
 
