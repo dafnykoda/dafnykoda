@@ -57,10 +57,6 @@ Currently, I have a solid foundation in C++ and I'm always learning new concepts
 </p>
 <br>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/81/d3/b3/81d3b3c67e72c93b7ec22049ac1f82ee.gif" width="380">
-</p>
-<br>
 
 <h2 align="center">➤ Connect with me</h2>
 
