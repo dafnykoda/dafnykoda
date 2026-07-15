@@ -45,11 +45,6 @@ Currently, I have a solid foundation in C++ and I'm always learning new concepts
 </p>
 
 <br><br>
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dafnykoda&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafnykoda&layout=compact&theme=rose_pine&hide_border=true"/>
-</p>
 
 <br><br>
 <p align="center">
