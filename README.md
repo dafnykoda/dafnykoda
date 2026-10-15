@@ -18,11 +18,11 @@
 <tr>
 <td align="center" width="700">
 
-Hi! I'm **Dafny**.
+Hi! I'm Dafny
 
-I'm an Information Systems student with a passion for technology, innovation, and continuous learning. I enjoy transforming ideas into practical solutions while improving my technical and creative skills.
+I'm an Information Systems student with a background in digital design and an interest in web development, UI/UX, and product design.
 
-Currently, I have a solid foundation in C++ and I'm always learning new concepts, tools, and technologies to grow as a developer.
+I work with HTML, CSS, and C++, and use Figma for design. I'm currently learning JavaScript and Python while exploring how design and code come together to build intuitive and functional digital experiences.
 
 </td>
 </tr>
